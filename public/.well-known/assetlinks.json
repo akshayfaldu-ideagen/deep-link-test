@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.vortilla.opcentralopapp",
+            "sha256_cert_fingerprints": [
+                "49:25:EE:14:0C:2E:DF:C3:63:DF:D8:08:FB:BC:C4:B6:E3:0E:00:ED:1D:38:24:8B:37:08:AD:3E:5E:3D:24:06"
+            ]
+        }
+    }
+]
